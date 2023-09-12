@@ -1,0 +1,47 @@
+/* CourseForm.css */
+
+/* Style for the button */
+button {
+  background-color: #007bff; /* Blue color, you can change it */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+/* Style for form labels */
+label {
+  font-weight: bold;
+}
+
+/* Style for form input fields */
+input[type="text"],
+input[type="date"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Style for form buttons */
+button[type="button"],
+button[type="submit"] {
+  background-color: #007bff; /* Blue color, you can change it */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 5px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+/* Style for form buttons on hover */
+button:hover {
+  background-color: #0056b3; /* Slightly darker blue on hover */
+}
+
+/* Optional: Add more styling as needed for your specific design */

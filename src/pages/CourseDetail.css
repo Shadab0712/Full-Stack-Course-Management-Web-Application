@@ -1,0 +1,31 @@
+/* CourseDetail.css */
+
+/* Style for the container */
+.container {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* Style for the heading */
+h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Style for the course title */
+h3 {
+  font-size: 18px;
+  color: #444;
+  margin-bottom: 5px;
+}
+
+/* Style for the course description and duration */
+.course-info {
+  margin-top: 10px;
+}
+
+/* Optional: Add more styling as needed for your specific design */

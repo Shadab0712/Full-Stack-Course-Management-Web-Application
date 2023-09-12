@@ -1,0 +1,57 @@
+div {
+  background-color: #f0f0f0;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px;
+  margin: 10px;
+}
+
+h1 {
+  font-size: 15px;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+/* Style for the "Add Course" button */
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Style for course detail items */
+.course-detail {
+  margin: 1px 0;
+  padding: 1px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 1px;
+}
+
+/* Style for course titles */
+h2 {
+  font-size: 18px;
+  color: #333;
+}
+
+/* Style for other course details */
+h3 {
+  font-size: 16px;
+  color: #555;
+}
+
+/* Style for the "Save" button */
+button[type="submit"] {
+  background-color: #28a745;
+}
+
+/* Style for the "Cancel" button */
+button[type="button"] {
+  background-color: #dc3545;
+}
+
+/* Add more styles as needed */
